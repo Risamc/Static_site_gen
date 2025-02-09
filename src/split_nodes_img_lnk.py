@@ -1,4 +1,4 @@
-from textnode import TextNode, TextType
+from nodes import TextNode, TextType
 from image_links_regex import * 
 import re
 
